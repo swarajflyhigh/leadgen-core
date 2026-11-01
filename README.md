@@ -4,7 +4,7 @@ Find local small businesses that could use a simple website or a small automatio
 the gap you can actually see, and keep every first message honest.
 
 Built by Swaraj Yadav in Berlin while looking for his first local clients. The same approach,
-applied to an operations team's inbox at iur.crowd as an n8n workflow, reduced manual effort by 85%.
+applied to an operations team's inbox at iur.crowd as an n8n workflow, reduced manual effort by 80%.
 
 ## What it does
 
